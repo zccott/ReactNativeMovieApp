@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mobile-movie-app",
-    "slug": "mobile-movie-app",
+    "name": "ReactNativeMovieApp",
+    "slug": "ReactNativeMovieApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "Movies",
+    "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
